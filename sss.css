@@ -43,7 +43,7 @@ html::-webkit-scrollbar-thumb{
  }
 
 section{
-    min-height: 100vh;
+    min-height: 12vh;
     padding: 1rem;
 }
 
